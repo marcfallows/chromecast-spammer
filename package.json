@@ -1,0 +1,14 @@
+{
+  "name": "chromecast-spammer",
+  "version": "0.1.0",
+  "description": "Hijack chromecasts on the network.",
+  "main": "cast.js",
+  "dependencies": {
+    "castv2-client": "^0.0.8",
+    "mdns": "^2.2.2",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {},
+  "author": "Marc Fallows",
+  "license": "ISC"
+}
